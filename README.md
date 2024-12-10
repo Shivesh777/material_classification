@@ -14,7 +14,7 @@ This project is designed to process images, extract features, and train basic ma
 
 1. **Processing Raw DNGs**:
    - Place your raw DNG images in a folder.
-   - Run `process_raw_dngs.py` script.
+   - Run `process_raw.py` script.
    - Provide the path to the folder containing raw DNG images.
    - Processed images will be saved in the same folder.
 
